@@ -1,0 +1,12 @@
+num1 = float(input("qual numero da tabuada você deseja?"))
+
+print("*1",num1*1)
+print("*2",num1*2)
+print("*3",num1*3)
+print("*4",num1*4)
+print("*5",num1*5)
+print("*6",num1*6)
+print("*7",num1*7)
+print("*8",num1*8)
+print("*9",num1*9)
+print("*10",num1*10)
